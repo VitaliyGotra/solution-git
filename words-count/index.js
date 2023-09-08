@@ -9,3 +9,4 @@ function wordsCount(str) {
 }
 
 console.assert(wordsCount('Hello world!') === 2)
+console.assert(wordsCount('Hello world Eweryone!') === 3)
